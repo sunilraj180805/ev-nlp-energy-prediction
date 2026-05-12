@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
+joblib
+sentence-transformers
+pdfplumber
+PyMuPDF
+nltk
+wordcloud
+jupyter
